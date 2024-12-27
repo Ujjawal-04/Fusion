@@ -89,26 +89,7 @@ npm run dev
 ![Shopping Cart](/assests/3.png)
 ![Shopping Cart](/assests/9.png)
 
-</details>
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 👥 Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit pull requests.
-
-## 📞 Support
-
-For support, email support@fusion.com or join our Slack channel.
-
-## 🙏 Acknowledgments
-
-- All our amazing contributors
-- Our dedicated customer support team
-- Our eco-friendly material suppliers
 
 ---
 
-Made with ❤️ by the Fusion Team
+Made with ❤️ by the Fusion Team(Ujjawal)
