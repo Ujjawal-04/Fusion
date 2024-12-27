@@ -1,6 +1,6 @@
 # 🚀 Fusion - Premium Footwear E-commerce Platform
 
-![Fusion Banner](/public/images/fusion-banner.png)
+![Fusion Banner](/assets/1.png)
 
 ## 🌟 Overview
 
