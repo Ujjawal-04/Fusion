@@ -51,7 +51,7 @@ Fully responsive design that works seamlessly across:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/fusion.git
+git clone (https://github.com/Ujjawal-04/Fusion.git)
 ```
 
 2. Install dependencies
