@@ -1,6 +1,7 @@
 # 🚀 Fusion - Premium Footwear E-commerce Platform
 
-![Fusion Banner](/assets/1.png)
+![Fusion Banner](./assests/1.png)
+![Fusion Banner](./assests/2.png)
 
 ## 🌟 Overview
 
@@ -29,16 +30,13 @@ Fusion is a modern e-commerce platform specializing in premium footwear. We're r
 - **Shopping Cart** - Seamless checkout experience
 - **Order Tracking** - Real-time updates on your purchases
 - **Newsletter Subscription** - Stay updated with latest trends and offers
-
+![Fusion Banner](./assests/6.png)
 ## 🛠️ Technology Stack
 
-- **Frontend**: Next.js, React, Tailwind CSS
-- **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Frontend**: Next.js, Medusa, Tailwind CSS
+- **Backend**: Medusa
+- **Database**: Medusa
 - **Authentication**: NextAuth.js
-- **Payment Processing**: Stripe
-- **Cloud Storage**: AWS S3
-- **Deployment**: Vercel
 
 ## 📱 Responsive Design
 
@@ -76,13 +74,20 @@ npm run dev
 <summary>View Screenshots</summary>
 
 ### Homepage
-![Homepage](/screenshots/homepage.png)
+![Homepage](/assests/1.png)
+![Homepage](/assests/4.png)
+![Homepage](/assests/7.png)
+![Homepage](/assests/10.png)
+
 
 ### Product Catalog
-![Product Catalog](/screenshots/catalog.png)
+![Product Catalog](/assests/2.png)
+![Product Catalog](/assests/5.png)
+![Product Catalog](/assests/8.png)
 
 ### Shopping Cart
-![Shopping Cart](/screenshots/cart.png)
+![Shopping Cart](/assests/3.png)
+![Shopping Cart](/assests/9.png)
 
 </details>
 
